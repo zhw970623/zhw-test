@@ -1,1 +1,2 @@
 # zhw-test
+print("hello")
